@@ -1,0 +1,6 @@
+\\Mac\Home\Downloads\CSCI576 - 20203 - Multimedia Systems Design - 9162020 - 255 AM\ImageDisplay_C++\Debug\Image.exe
+\\Mac\Home\Downloads\CSCI576 - 20203 - Multimedia Systems Design - 9162020 - 255 AM\ImageDisplay_C++\Debug\Image.pdb
+\\Mac\Home\Desktop\Course\576 Multimedia\CSCI576_HW2\yuehhsueh_lee_hw1\Debug\Image.exe
+\\Mac\Home\Desktop\Course\576 Multimedia\CSCI576_HW2\yuehhsueh_lee_hw1\Debug\Image.pdb
+\\Mac\Home\Desktop\Course\576 Multimedia\CSCI576_HW3\Debug\Image.exe
+\\Mac\Home\Desktop\Course\576 Multimedia\CSCI576_HW3\Debug\Image.pdb
